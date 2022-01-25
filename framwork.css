@@ -1,0 +1,23 @@
+.col-1 {
+  float: left;
+  width: 8.33333333%;
+}
+.col-2 {
+  float: left;
+  width: 1
+}
+div {
+  height: 50px;
+  border: 1px solid red;
+}
+
+.row:before {
+  display: table;
+  content: "";
+}
+
+.row:after {
+  display: table;
+  content: "";
+  clear: both;
+}
