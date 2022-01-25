@@ -4,7 +4,19 @@
 }
 .col-2 {
   float: left;
-  width: 1
+  width: 16.6666666%;
+}
+.col-3 {
+  float: left;
+  width: 25%;
+}
+.col-4 {
+  float: left;
+  width: 32.329999%;
+}
+.col-5 {
+  float: left;
+  width: 40.66666%;
 }
 div {
   height: 50px;
